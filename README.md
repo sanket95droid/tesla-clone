@@ -1,4 +1,4 @@
-``` [Link](https://tesla-clone-cf904.web.app/) ```
+## [Link](https://tesla-clone-cf904.web.app/)
 
 # Getting Started with Create React App
 
