@@ -1,4 +1,4 @@
-##Link - Set-ExecutionPolicy -ExecutionPolicy Bypass -Scope CurrentUse
+##Link[https://tesla-clone-cf904.web.app/]
 
 # Getting Started with Create React App
 
